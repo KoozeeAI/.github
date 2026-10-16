@@ -10,7 +10,6 @@ KOOZEE also maintains curated AI Fashion Prompt Libraries for leading image and 
 
 | Explore | Repository |
 | --- | --- |
-| All AI fashion prompts | [AI Fashion Prompt Library](https://github.com/KoozeeAI/ai-fashion-prompts) |
 | GPT Image 2 fashion prompts | [GPT Image 2](https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts) |
 | GPT Image 2.5 fashion prompts | [GPT Image 2.5](https://github.com/KoozeeAI/awesome-gpt-image-2-5-fashion-prompts) |
 | Seedance 2.5 fashion prompts | [Seedance 2.5](https://github.com/KoozeeAI/awesome-seedance-2-5-fashion-prompts) |
